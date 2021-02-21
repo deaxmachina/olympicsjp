@@ -1,0 +1,110 @@
+
+.wrapper-paralympics {
+  position: relative;
+}
+
+.page-container-paralympics {
+  color: #f8961e;
+}
+
+.home-paralympics {
+  color: #f8961e;
+}
+
+.graph-title-paralympics {
+}
+
+.tooltip-paralympics-participants {
+  opacity: 0;
+  position: absolute;
+  border: 1.5px dotted #219ebc;
+  box-shadow: 5px 5px 1px 1px rgba(33,158,188, 0.8) ;
+  color: #403d39;
+  border-radius: 20px;
+  top: 0;
+  left: 0;
+  padding: 0.8em;
+  background: white;
+  z-index: 10;
+  transition: all 0.2s ease-out;
+  pointer-events: none;  
+  text-align: left;
+  font-size: 14px;
+  overflow:visible
+}
+
+.tooltip-paralympics-sports {
+  opacity: 0;
+  position: absolute;
+  color: #403d39;
+  border-radius: 20px;
+  top: 0;
+  left: 0;
+  padding: 0.8em;
+  background: white;
+  z-index: 10;
+  transition: all 0.2s ease-out;
+  pointer-events: none;  
+  text-align: left;
+  font-size: 14px;
+  overflow:visible
+}
+
+svg {
+  overflow:visible
+}
+
+.paralympics-label-top, .paralympics-label-bottom  {
+  transform: rotate(0deg);
+  position: absolute;
+  left: 0px;
+  text-transform: uppercase;
+  background-color: white;
+  padding: 2px 10px;
+  border-radius: 15px;
+}
+
+.paralympics-label-top {
+  top: 230px;
+  color: #219ebc;
+}
+
+.paralympics-label-bottom {
+  top: 350px;
+  color: #ff006e;
+}
+
+.mascot-paralympics { 
+  background-image: url("./鳩5.svg");
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 27px;
+  right: 19%;
+}
+
+@media(max-width: 1400px) {
+  .mascot-paralympics {
+    top: 30px;
+    right: 13%;
+  }
+}
+@media(max-width: 1150px) {
+  .mascot-paralympics {
+    top: 45px;
+  }
+}
+@media(max-width: 900px) {
+  .mascot-paralympics {
+    top: 33px;
+    right: 3%;
+    width: 70px;
+    height: 70px;
+  }
+}
+@media(max-width: 600px) {
+  .mascot-paralympics {
+    top: 63px;
+    right: 3%;
+  }
+}

@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+*, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  margin: auto;
+  background-color: #f2e9e4;
+  color: #403d39;
+}
+
+
+/**************** container ***************/
+.page-container {
+  position: relative;
+  margin: 100px auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.wrapper {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+}
+
+
+/**************** icons ***************/
+.icon {
+  display: inline-block;
+  margin-left: 5px !important;
+}
+
+.graph-explain-icon, .home-icon {
+  padding: 2px;
+  margin: 20px auto;
+  text-align: center;
+  width: 60px;
+  height: 40px;
+  border: 1px dotted white;
+  border-radius: 10%;
+  color: var(--darkest-purple);
+  background-color: #f2e9e4;
+  outline: none;
+}
+
+.info-span {
+  margin-left: 7%;
+}
+
+.graph-explain-container {
+  margin: auto;
+  margin-bottom: 40px;
+  width: 60%;
+  text-align: left;
+}
+
+
+/**************** text ***************/
+.graph-title {
+  margin: auto;
+  font-size: 32px;
+  background-color: white;
+  padding: 8px 12px;
+  width: 60%;
+  border-radius: 100px;
+}
+
+/* links */
+a {
+  color: #403d39;
+  text-decoration: none;
+}
+
+::selection {
+  background: white; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: white; /* Gecko Browsers */
+}
+
+.graph-title::selection {
+  background: #fde7e7; /* WebKit/Blink Browsers */
+}
+
+.graph-title::-moz-selection {
+  background: #fde7e7; /* Gecko Browsers */
+}
+
+/************* media queries *************/
+@media(max-width: 900px) {
+  .graph-title {
+    font-size: 26px;
+    width: 70%;
+  }
+}
+
+@media(max-width: 600px) {
+  .graph-title {
+    font-size: 22px;
+    padding: 8px 24px;
+    width: 80%;
+    text-align: left;
+  }
+  .graph-explain-container {
+    width: 80%;
+  }
+}

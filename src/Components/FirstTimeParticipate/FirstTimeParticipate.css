@@ -1,0 +1,86 @@
+.wrapper-first-time {
+  overflow: auto;
+}
+
+.home-first-time {
+  color: #219ebc;
+}
+
+.page-container-first-time {
+  color: #219ebc;
+  position: relative;
+}
+
+.graph-title-first-time {
+}
+
+.play-button-first-time {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-color: white;
+  border: 5px solid #219ebc;
+  padding: 15px;
+  border-radius: 50px;
+  cursor: default;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.play-button-first-time:hover {
+  background-color: #219ebc;
+  color: white;
+}
+
+.tooltip-first-time {
+  opacity: 0;
+  position: absolute;
+  border: 1.5px dotted #219ebc;
+  box-shadow: 5px 5px 1px 1px rgba(33,158,188, 0.8) ;
+  border-radius: 20px;
+  top: 0;
+  left: 0;
+  padding: 0.8em;
+  background: white;
+  color: #403d39;
+  z-index: 10;
+  transition: all 0.2s ease-out;
+  pointer-events: none;  
+  width: 100px;
+  text-align: center;
+}
+
+.mascot-first-time { 
+  background-image: url("./鳩3.svg");
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 27px;
+  right: 19%;
+}
+
+@media(max-width: 1400px) {
+  .mascot-first-time {
+    top: 30px;
+    right: 13%;
+  }
+}
+@media(max-width: 1150px) {
+  .mascot-first-time {
+    top: 45px;
+  }
+}
+@media(max-width: 900px) {
+  .mascot-first-time {
+    top: 33px;
+    right: 3%;
+    width: 70px;
+    height: 70px;
+  }
+}
+@media(max-width: 600px) {
+  .mascot-first-time {
+    top: 63px;
+    right: 3%;
+  }
+}
