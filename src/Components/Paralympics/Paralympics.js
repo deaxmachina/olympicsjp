@@ -18,12 +18,14 @@ import { annotationCalloutElbow, annotationCalloutCurve, annotation } from "d3-s
 const GraphExplain = () => {
   return (
     <div className="graph-explain-container">
-      <p>Data source: 
-        <a href="https://en.wikipedia.org/wiki/Summer_Paralympic_Games" target="_blank"> Wikipedia </a> 
-        and 
-        <a href="https://www.britannica.com/sports/Paralympic-Games" target="_blank"> Britannica </a> 
+      <p>元: 
+        <a href="https://en.wikipedia.org/wiki/Summer_Paralympic_Games" target="_blank"> ウィキペディア </a> 
+        と 
+        <a href="https://www.britannica.com/sports/Paralympic-Games" target="_blank"> ブリタニカ </a> 
       </p>
-      <p className="disclaimer">Were you surprised to learn about the beginnings of the Patalympics; if so, what did you think before? Research the qualifying criteria for athletes over time. Is there a trend? If you could include other groups of people, what would these be?</p>
+      <p className="disclaimer">
+        パラリンピックの始まりについて知って驚きましたか。 もしそうなら、前にどう思いましたか？ 時間の経過とともに選手の資格基準を調べてみてください。 トレンドはありますか？ 他のグループの選手を含めることができるとしたら、どんな選手にしたいと思いますか？
+      </p>
     </div>
   )
 }
@@ -176,11 +178,11 @@ const Paralympics = () => {
             ) 
           .style("opacity", 1)
           .html(`
-            host: ${datum.host} 
+            開催都市: ${datum.host} 
             <br/> 
-            nations: ${datum.nations} 
+            国の数: ${datum.nations} 
             <br/> 
-            competitors: ${datum.competitors}
+            選手数: ${datum.competitors}
           `)
         })
         .on('mouseleave', () => {
@@ -193,8 +195,13 @@ const Paralympics = () => {
     const type = annotationCalloutCurve
     const annotations = [{
         note: {
-          label: "The Paralympics developed after Sir Ludwig Guttmann organized a sports competition for British World War II veterans with spinal cord injuries in England in 1948.",
-          title: "Beginnings: 1948"
+          label: `パラリンピックが
+          ルートヴィヒ・グットマン卿が
+          1948年にイギリスで脊髄損傷を
+          負った第二次世界大戦の退役軍人
+          を対象にスポーツ大会を開催した
+          後に開発された。`,
+          title: "始原: 1948"
         },
         dy: -120,
         dx: 50,
@@ -311,7 +318,9 @@ const Paralympics = () => {
 
   return (
     <div className="page-container page-container-paralympics" id="paralympics">
-      <h2 className="graph-title graph-title-paralympics">What is the history and timeline of the Paralympics?</h2>
+      <h2 className="graph-title graph-title-paralympics">
+        パラリンピックの歴史とタイムラインはなんですか
+      </h2>
       <div className="mascot-paralympics"></div>
 
       <button className="icon home-icon">
@@ -341,8 +350,8 @@ const Paralympics = () => {
         </svg>
         <div className="tooltip-paralympics-participants" ref={tooltipParticipantsRef}>Tooltip</div>
         <div className="tooltip-paralympics-sports" ref={tooltipSportsRef}></div>
-        <div className="paralympics-label-top">participants</div>
-        <div className="paralympics-label-bottom">sports</div>
+        <div className="paralympics-label-top">選手</div>
+        <div className="paralympics-label-bottom">スポーツ</div>
         <div className="mascot"></div>
       </div>
 

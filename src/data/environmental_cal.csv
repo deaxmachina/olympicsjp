@@ -1,20 +1,17 @@
 ﻿event,year,notes,olympics,polarity
-"Albertville, France, Winter Olympic Games",1992,Environmental disaster; destruction of large forest areas and wildlife,winter,negative
-"Rio de Janeiro, Brazil, Earth Summit",1992,Worldwide attention to environmental issues of Olympic Games,no,positive
-1st environmental policy published by IOC,1994,,no,positive
-"Lillehammer, Norway, Winter Olympic Games",1994,"Environmentally conscious, green games; environmental-political showcase",winter,positive
-"1st World Conference on Sport & Environment, Lausanne, Switzerland (IOC; UNEP)",1995,"‘Eco-wave’ (FESI); 14,000 ecological standards for businesses (ISO); education and environment – a key issue",no,positive
-"Atlanta, USA, Summer Olympic Games",1996,Re-usage of derelict buildings; photovoltaic energy; bus/subway/electric train transport; 82% waste recycled,summer,positive
-‘environment’ added as 3rd dimension of the Olympic Movement,1996,To oversee environmental aspect of bids; ‘environment’ added as 3rd dimension of the Olympic Movement. Sport & Environment Commission (IOC),no,positive
-"Nagano, Japan, Winter Olympic Games",1998,1st Olympic Games for OGOC to follow environmental protection policy,winter,positive
-Global Plan Agenda 21 (IOC),1999,Reference tool for host cities to ensure environmental protection in hosting an Olympic Games,no,positive
-"Sydney, Australia, Summer Olympic Games",2000,‘State of Environment 68-page pre-Games Report’; biodiversity preserved; 425 hectares restored parkland; successful water /waste recycling,summer,positive
-"Athens, Greence, Summer Olympic Games",2004,Poor implementation of well-defined environmental pre-Games policy; Olympic facilities built on open green spaces; environment ignored,summer,negative
-"Beijing, China, Summer Olymic Games",2008,"Beijing ‘Environmental Master Plan’; improved air and water quality; recycling at venues, sustainable transport; increased forestation",summer,positive
-"London, United Kingdom, Summer Olympic Games",2012,"LOGOC Sustainable Sourcing Code; Commission for a Sustainable London 2012; re-used buildings; 96% of construction material recycled; 300,000 plants at Olympic Park & 1000 trees in London; ISO 20121 ",summer,positive
-"Sochi, Russia, Winter Olympic Games",2014,Deforestation of Mzymta mountains: Caucasian boxwood tree and habitat destruction; river contamination with toxic waste; river course altered; infrastructure built as new; no existing facility re-use; most environmentally costly games ever!,winter,negative
-"Rio de Janeiro, Brazil, Summer Olympic Games",2016,Poor implementation of Sustainability Management Plan; poor air and water quality; threat of ZikV; Guanabara bay polluted with human sewage,summer,negative
-"Tokyo, Japan, Summer Olympic Games",2020,"5000 medals made from postconsumer electronics donated by; 500 f fuel cell electric vehicles
-introduced as passenger cars; 37,00+ trees conserved at new
-permanent venues;
-people across Japan",summer,positive
+フランス、アルベールビル、冬季オリンピック,1992,環境災害; 広大な森林地帯と野生生物の破壊,winter,negative
+ブラジル、リオデジャネイロ、地球サミット,1992,オリンピック+環境問題への世界的な注目,no,positive
+IOCが発表した最初の環境政策,1994,,no,positive
+ノルウェー、リレハンメル、冬季オリンピック,1994,環境配慮的行動なオリンピック,winter,positive
+スポーツと環境に関する第1回世界会議、スイス、ローザンヌ（IOC; UNEP）,1995,"「エコウェーブ」（FESI）; 企業のための14,000の生態学的基準（ISO）; 教育と環境–重要な問題",no,positive
+アメリカ、アトランタ、夏季オリンピック,1996,遺棄された建物の再利用; 太陽光発電エネルギー； バス・地下鉄・電車の輸送；82％の廃棄物がリサイクルされた,summer,positive
+「環境」はオリンピック運動の第三の柱になる,1996,入札の環境的側面を監督するため。  スポーツ環境委員会（IOC）,no,positive
+日本、長野、冬季オリンピック,1998,OGOCが環境保護方針に従う第1回オリンピック,winter,positive
+グローバルプランアジェンダ21（IOC）,1999,オリンピック開催時に環境保護を確保するための開催都市の参照ツール,no,positive
+オーストラリア、シドニー、夏季オリンピック,2000,生物多様性の保全； 425ヘクタールの緑地の復元； 水・廃棄物のリサイクル,summer,positive
+ギリシャ、アテネ、夏季オリンピック,2004,明確に定義された環境ゲームポリシーの不十分な実装。 オープンな緑地に建てられたオリンピック施設。 環境問題が無視された。,summer,negative
+中国、北京、夏季オリンピック,2008,"北京の「環境マスタープラン」; 改善された空気と水質; 会場でのリサイクル、持続可能な輸送。 植林の増加",summer,positive
+ロンドン、イギリス、夏季オリンピック,2012,持続可能なロンドン2012のための委員会； 再利用された建物；建設資材の96％がリサイクルされた。 オリンピック公園の30万本の植物、1000本の木。 ISO 20121,summer,positive
+ロシア、ソチ、冬季オリンピック,2014,ムジムタ山脈の森林破壊：白のツゲの木と生息地の破壊。 有毒廃棄物による河川汚染； 川の流れが変わった。 新規に構築されたインフラストラクチャ。 既存の施設の再利用なし。,winter,negative
+リオデジャネイロ、ブラジル、夏季オリンピック,2016,持続可能性管理計画の不十分な実施； 悪空気と水質。 ZikVの脅威； 人間の下水で汚染されたグアナバラ湾,summer,negative
+日本、東京、夏季オリンピック,2020,全国の人々から寄贈された使用済み電子機器から作られた5000個のメダル。 乗用車として導入された500台の燃料電池電気自動車。 新しい常設会場で保存された37,00本以上の樹木,summer,positive

@@ -13,15 +13,15 @@ import { faBookOpen, faLaughBeam, faHome } from '@fortawesome/free-solid-svg-ico
 const GraphExplain = () => {
   return (
     <div className="graph-explain-container">
-      <p>Data source: <a href="https://www.researchgate.net/publication/340446440_ENVIRONMENTAL_SUSTAINABILITY_OF_OLYMPIC_GAMES_A_NARRATIVE_REVIEW_OF_EVENTS_INITIATIVES_IMPACT_AND_HIDDEN_ASPECTS" target="_blank">
+      <p>元: <a href="https://www.researchgate.net/publication/340446440_ENVIRONMENTAL_SUSTAINABILITY_OF_OLYMPIC_GAMES_A_NARRATIVE_REVIEW_OF_EVENTS_INITIATIVES_IMPACT_AND_HIDDEN_ASPECTS" target="_blank">
         "Maria Konstantaki (2018) "Environmental Sustainability of Olympic Games: a Narrative Review of Events, Initiatives, Impact and Hidden Aspects"
         </a>
       </p>
       <p className="disclaimer"> 
-        Timeline of major positive and negative environmental events/initiatives/outcomes at or related to the Olympics. Based on events described in paper by Maria Konstantaki (2018). 
+      オリンピックでの、またはオリンピックに関連する主要なポジティブおよびネガティブな環境に関連がある結果などのタイムライン。 Maria Konstantaki（2018）の論文に記載されているイベントに基づいています。
       </p>
       <p className="disclaimer"> 
-        What do you think the positive and negative environmental impact of the Olympics is? Do you know about the recycling efforts for Tokyo 2020? Why do you think the medals were made from recycled electronics, for example? What would you do if you were organising the games to ensure they have a positive impact? 
+      オリンピックの環境へのポジチブとネガチブの影響は何だと思いますか？ 東京2020のリサイクル活動について知っていますか？ たとえば、なぜメダルはリサイクルされた電子機器から作られたと思いますか？ 
       </p>
     </div>
   )
@@ -204,10 +204,10 @@ const SustainabilityTimeline = () => {
           })
         )
       }) 
-      legend.selectAll(".legend-label-positive").data(['positive outcome']).join("text")
+      legend.selectAll(".legend-label-positive").data(['ポジティブな結果']).join("text")
         .classed("legend-label-positive", true)
         .text(d => d)
-        .attr("transform", `translate(${width - margin.right - 290}, ${margin.top})`)
+        .attr("transform", `translate(${width - margin.right - 300}, ${margin.top})`)
         .attr("dy", "0.35em")
         .style("fill", positiveColour)
 
@@ -224,10 +224,10 @@ const SustainabilityTimeline = () => {
           })
         )
       })   
-      legend.selectAll(".legend-label-negative").data(['negative outcome']).join("text")
+      legend.selectAll(".legend-label-negative").data(['ネガティブな結果']).join("text")
         .classed("legend-label-negative", true)
         .text(d => d)
-        .attr("transform", `translate(${width - margin.right - 130}, ${margin.top})`)
+        .attr("transform", `translate(${width - margin.right - 140}, ${margin.top})`)
         .attr("dy", "0.35em")
         .style("fill", negativeColour)     
 
@@ -243,7 +243,9 @@ const SustainabilityTimeline = () => {
   return (
     <div className="page-container page-container-sustainability-timeline" id="environment">
       <div className="mascot-sustainability-timeline"></div>
-      <h2 className="graph-title graph-title-sustainability-timeline">How do the Olympics impact the environment?</h2>
+      <h2 className="graph-title graph-title-sustainability-timeline">
+      オリンピックは環境にどのような影響を与えますか？
+      </h2>
 
       <button className="icon home-icon">
         <a href="#home" className="home-sustainability-timeline"><FontAwesomeIcon icon={faHome}/></a>

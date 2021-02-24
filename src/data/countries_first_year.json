@@ -1,1584 +1,1584 @@
 [
   {
-    "country": "Afghanistan",
+    "country": "アフガニスタン",
     "ISO": "AFG",
     "IOC": "AFG",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1936"
   },
   {
-    "country": "Netherlands Antilles",
+    "country": "オランダ領アンティル",
     "ISO": "missing",
     "IOC": "AHO",
     "continent": "missing",
     "first_year": "1952"
   },
   {
-    "country": "Albania",
+    "country": "アルバニア",
     "ISO": "ALB",
     "IOC": "ALB",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1972"
   },
   {
-    "country": "Algeria",
+    "country": "アルジェリア",
     "ISO": "DZA",
     "IOC": "ALG",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Andorra",
+    "country": "アンドラ",
     "ISO": "AND",
     "IOC": "AND",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1976"
   },
   {
-    "country": "Angola",
+    "country": "アンゴラ",
     "ISO": "AGO",
     "IOC": "ANG",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1980"
   },
   {
-    "country": "Antigua and Barbuda",
+    "country": "アンティグアバーブーダ",
     "ISO": "ATG",
     "IOC": "ANT",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1976"
   },
   {
-    "country": "Australasia",
+    "country": "オーストララシア",
     "ISO": "missing",
     "IOC": "ANZ",
     "continent": "missing",
     "first_year": "1908"
   },
   {
-    "country": "Argentina",
+    "country": "アルゼンチン",
     "ISO": "ARG",
     "IOC": "ARG",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1900"
   },
   {
-    "country": "Armenia",
+    "country": "アルメニア",
     "ISO": "ARM",
     "IOC": "ARM",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Aruba",
+    "country": "アルバー",
     "ISO": "ABW",
     "IOC": "ARU",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1988"
   },
   {
-    "country": "American Samoa",
+    "country": "アメリカ領サモア",
     "ISO": "ASM",
     "IOC": "ASA",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1988"
   },
   {
-    "country": "Australia",
+    "country": "オーストラリア",
     "ISO": "AUS",
     "IOC": "AUS",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1896"
   },
   {
-    "country": "Austria",
+    "country": "オーストリア",
     "ISO": "AUT",
     "IOC": "AUT",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1896"
   },
   {
-    "country": "Azerbaijan",
+    "country": "アゼルバイジャン",
     "ISO": "AZE",
     "IOC": "AZE",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Bahamas",
+    "country": "バハマ",
     "ISO": "BHS",
     "IOC": "BAH",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1952"
   },
   {
-    "country": "Bangladesh",
+    "country": "バングラデシュ",
     "ISO": "BGD",
     "IOC": "BAN",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1984"
   },
   {
-    "country": "Barbados",
+    "country": "バルバドス",
     "ISO": "BRB",
     "IOC": "BAR",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1968"
   },
   {
-    "country": "Burundi",
+    "country": "ブルンジ",
     "ISO": "BDI",
     "IOC": "BDI",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1996"
   },
   {
-    "country": "Belgium",
+    "country": "ベルギー",
     "ISO": "BEL",
     "IOC": "BEL",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1900"
   },
   {
-    "country": "Benin",
+    "country": "ベナン",
     "ISO": "BEN",
     "IOC": "BEN",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1972"
   },
   {
-    "country": "Bermuda",
+    "country": "バミューダ",
     "ISO": "BMU",
     "IOC": "BER",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1936"
   },
   {
-    "country": "Bhutan",
+    "country": "ブータン",
     "ISO": "BTN",
     "IOC": "BHU",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1984"
   },
   {
-    "country": "Bosnia and Herzegovina",
+    "country": "ボスニア・ヘルツェゴビナ",
     "ISO": "BIH",
     "IOC": "BIH",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1992"
   },
   {
-    "country": "Belize",
+    "country": "ベリーズ",
     "ISO": "BLZ",
     "IOC": "BIZ",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1968"
   },
   {
-    "country": "Belarus",
+    "country": "ベラルーシ",
     "ISO": "BLR",
     "IOC": "BLR",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Bohemia",
+    "country": "ボヘミア",
     "ISO": "missing",
     "IOC": "BOH",
     "continent": "missing",
     "first_year": "1900"
   },
   {
-    "country": "Bolivia",
+    "country": "ボリビア",
     "ISO": "BOL",
     "IOC": "BOL",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1936"
   },
   {
-    "country": "Botswana",
+    "country": "ボツワナ",
     "ISO": "BWA",
     "IOC": "BOT",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1980"
   },
   {
-    "country": "Brazil",
+    "country": "ブラジル",
     "ISO": "BRA",
     "IOC": "BRA",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1920"
   },
   {
-    "country": "Bahrain",
+    "country": "バーレーン",
     "ISO": "BHR",
     "IOC": "BRN",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1984"
   },
   {
-    "country": "Brunei",
+    "country": "ブルネイ",
     "ISO": "BRN",
     "IOC": "BRU",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1996"
   },
   {
-    "country": "Bulgaria",
+    "country": "ブルガリア",
     "ISO": "BGR",
     "IOC": "BUL",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1924"
   },
   {
-    "country": "Burkina Faso",
+    "country": "ブルキナファソ",
     "ISO": "BFA",
     "IOC": "BUR",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1972"
   },
   {
-    "country": "British West Indies",
+    "country": "英領西インド諸島",
     "ISO": "missing",
     "IOC": "BWI",
     "continent": "missing",
     "first_year": "1960"
   },
   {
-    "country": "Central African Republic",
+    "country": "中央アフリカ共和国",
     "ISO": "CAF",
     "IOC": "CAF",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1968"
   },
   {
-    "country": "Cambodia",
+    "country": "カンボジア",
     "ISO": "KHM",
     "IOC": "CAM",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1964"
   },
   {
-    "country": "Canada",
+    "country": "カナダ",
     "ISO": "CAN",
     "IOC": "CAN",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1900"
   },
   {
-    "country": "Cayman Islands",
+    "country": "ケーマン諸島",
     "ISO": "CYM",
     "IOC": "CAY",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1976"
   },
   {
-    "country": "Republic of the Congo",
+    "country": "コンゴ共和国",
     "ISO": "COG",
     "IOC": "CGO",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Chad",
+    "country": "チャド",
     "ISO": "TCD",
     "IOC": "CHA",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Chile",
+    "country": "チリ",
     "ISO": "CHL",
     "IOC": "CHI",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1912"
   },
   {
-    "country": "China",
+    "country": "中国",
     "ISO": "CHN",
     "IOC": "CHN",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1952"
   },
   {
-    "country": "Ivory Coast",
+    "country": "コートジボワール",
     "ISO": "CIV",
     "IOC": "CIV",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Cameroon",
+    "country": "カメルーン",
     "ISO": "CMR",
     "IOC": "CMR",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Democratic Republic of the Congo",
+    "country": "コンゴ民主共和国",
     "ISO": "COD",
     "IOC": "COD",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1968"
   },
   {
-    "country": "Cook Islands",
+    "country": "クック諸島",
     "ISO": "COK",
     "IOC": "COK",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1988"
   },
   {
-    "country": "Colombia",
+    "country": "コロンビア",
     "ISO": "COL",
     "IOC": "COL",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1932"
   },
   {
-    "country": "Comoros",
+    "country": "コモロ",
     "ISO": "COM",
     "IOC": "COM",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1996"
   },
   {
-    "country": "Cape Verde",
+    "country": "カーボベルデ",
     "ISO": "CPV",
     "IOC": "CPV",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1996"
   },
   {
-    "country": "Costa Rica",
+    "country": "コスタリカ",
     "ISO": "CRI",
     "IOC": "CRC",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1936"
   },
   {
-    "country": "Croatia",
+    "country": "クロアチア",
     "ISO": "HRV",
     "IOC": "CRO",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1992"
   },
   {
-    "country": "Cuba",
+    "country": "キューバ",
     "ISO": "CUB",
     "IOC": "CUB",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1900"
   },
   {
-    "country": "Cyprus",
+    "country": "キプロス",
     "ISO": "CYP",
     "IOC": "CYP",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1980"
   },
   {
-    "country": "Czech Republic",
+    "country": "チェコ",
     "ISO": "CZE",
     "IOC": "CZE",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Denmark",
+    "country": "デンマーク",
     "ISO": "DNK",
     "IOC": "DEN",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1896"
   },
   {
-    "country": "Djibouti",
+    "country": "ジブチ",
     "ISO": "DJI",
     "IOC": "DJI",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1984"
   },
   {
-    "country": "Dominica",
+    "country": "ドミニカ",
     "ISO": "DMA",
     "IOC": "DMA",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1996"
   },
   {
-    "country": "Dominican Republic",
+    "country": "ドミニカ共和国",
     "ISO": "DOM",
     "IOC": "DOM",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1964"
   },
   {
-    "country": "Ecuador",
+    "country": "エクアドル",
     "ISO": "ECU",
     "IOC": "ECU",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1924"
   },
   {
-    "country": "Egypt",
+    "country": "エジプト",
     "ISO": "EGY",
     "IOC": "EGY",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1912"
   },
   {
-    "country": "Eritrea",
+    "country": "エリトリア",
     "ISO": "ERI",
     "IOC": "ERI",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "2000"
   },
   {
-    "country": "El Salvador",
+    "country": "エルサルバドル",
     "ISO": "SLV",
     "IOC": "ESA",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1968"
   },
   {
-    "country": "Spain",
+    "country": "スペイン",
     "ISO": "ESP",
     "IOC": "ESP",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1900"
   },
   {
-    "country": "Estonia",
+    "country": "エストニア",
     "ISO": "EST",
     "IOC": "EST",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1920"
   },
   {
-    "country": "Ethiopia",
+    "country": "エチオピア",
     "ISO": "ETH",
     "IOC": "ETH",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1956"
   },
   {
-    "country": "United Team of Germany",
+    "country": "東西統一ドイツ選手団",
     "ISO": "missing",
     "IOC": "EUA",
     "continent": "missing",
     "first_year": "1956"
   },
   {
-    "country": "Unified Team",
+    "country": "EUN選手団",
     "ISO": "missing",
     "IOC": "EUN",
     "continent": "missing",
     "first_year": "1992"
   },
   {
-    "country": "Fiji",
+    "country": "フィジー",
     "ISO": "FJI",
     "IOC": "FIJ",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1956"
   },
   {
-    "country": "Finland",
+    "country": "フィンランド",
     "ISO": "FIN",
     "IOC": "FIN",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1908"
   },
   {
-    "country": "France",
+    "country": "フランス",
     "ISO": "FRA",
     "IOC": "FRA",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1896"
   },
   {
-    "country": "West Germany",
+    "country": "西ドイツ",
     "ISO": "missing",
     "IOC": "FRG",
     "continent": "missing",
     "first_year": "1968"
   },
   {
-    "country": "Federated States of Micronesia",
+    "country": "ミクロネシア連邦",
     "ISO": "FSM",
     "IOC": "FSM",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "2000"
   },
   {
-    "country": "Gabon",
+    "country": "ガボン",
     "ISO": "GAB",
     "IOC": "GAB",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1972"
   },
   {
-    "country": "The Gambia",
+    "country": "ガンビア",
     "ISO": "GMB",
     "IOC": "GAM",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1984"
   },
   {
-    "country": "Great Britain",
+    "country": "英国",
     "ISO": "GBR",
     "IOC": "GBR",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1896"
   },
   {
-    "country": "Guinea-Bissau",
+    "country": "ギニアビサウ",
     "ISO": "GNB",
     "IOC": "GBS",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1996"
   },
   {
-    "country": "East Germany",
+    "country": "東独",
     "ISO": "missing",
     "IOC": "GDR",
     "continent": "missing",
     "first_year": "1968"
   },
   {
-    "country": "Georgia",
+    "country": "グルジア",
     "ISO": "GEO",
     "IOC": "GEO",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Equatorial Guinea",
+    "country": "赤道ギニア",
     "ISO": "GNQ",
     "IOC": "GEQ",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1984"
   },
   {
-    "country": "Germany",
+    "country": "ドイツ",
     "ISO": "DEU",
     "IOC": "GER",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1896"
   },
   {
-    "country": "Ghana",
+    "country": "ガーナ",
     "ISO": "GHA",
     "IOC": "GHA",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1952"
   },
   {
-    "country": "Greece",
+    "country": "ギリシャ",
     "ISO": "GRC",
     "IOC": "GRE",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1896"
   },
   {
-    "country": "Grenada",
+    "country": "グレナダ",
     "ISO": "GRD",
     "IOC": "GRN",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1984"
   },
   {
-    "country": "Guatemala",
+    "country": "グアテマラ",
     "ISO": "GTM",
     "IOC": "GUA",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1952"
   },
   {
-    "country": "Guinea",
+    "country": "ギニア",
     "ISO": "GIN",
     "IOC": "GUI",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1968"
   },
   {
-    "country": "Guam",
+    "country": "グアム",
     "ISO": "GUM",
     "IOC": "GUM",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1988"
   },
   {
-    "country": "Guyana",
+    "country": "ガイアナ",
     "ISO": "GUY",
     "IOC": "GUY",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1948"
   },
   {
-    "country": "Haiti",
+    "country": "ハイチ",
     "ISO": "HTI",
     "IOC": "HAI",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1924"
   },
   {
-    "country": "Hong Kong",
+    "country": "ホンコン",
     "ISO": "HKG",
     "IOC": "HKG",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1952"
   },
   {
-    "country": "Honduras",
+    "country": "ホンジェラス",
     "ISO": "HND",
     "IOC": "HON",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1968"
   },
   {
-    "country": "Hungary",
+    "country": "ハンガリー",
     "ISO": "HUN",
     "IOC": "HUN",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1896"
   },
   {
-    "country": "Indonesia",
+    "country": "インドネシア",
     "ISO": "IDN",
     "IOC": "INA",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1952"
   },
   {
-    "country": "India",
+    "country": "インド",
     "ISO": "IND",
     "IOC": "IND",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1900"
   },
   {
-    "country": "Independent Olympic Participants",
+    "country": "オリンピックの独立参加選手団",
     "ISO": "missing",
     "IOC": "IOP",
     "continent": "missing",
     "first_year": "1992"
   },
   {
-    "country": "Iran",
+    "country": "イラン",
     "ISO": "IRN",
     "IOC": "IRI",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1948"
   },
   {
-    "country": "Ireland",
+    "country": "アイルランド",
     "ISO": "IRL",
     "IOC": "IRL",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1924"
   },
   {
-    "country": "Iraq",
+    "country": "イラク",
     "ISO": "IRQ",
     "IOC": "IRQ",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1948"
   },
   {
-    "country": "Iceland",
+    "country": "アイスランド",
     "ISO": "ISL",
     "IOC": "ISL",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1912"
   },
   {
-    "country": "Israel",
+    "country": "イスラエル",
     "ISO": "ISR",
     "IOC": "ISR",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1952"
   },
   {
-    "country": "Virgin Islands",
+    "country": "ヴァージン諸島",
     "ISO": "VIR",
     "IOC": "ISV",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1968"
   },
   {
-    "country": "Italy",
+    "country": "イタリア",
     "ISO": "ITA",
     "IOC": "ITA",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1896"
   },
   {
-    "country": "British Virgin Islands",
+    "country": "イギリス領ヴァージン諸島",
     "ISO": "VGB",
     "IOC": "IVB",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1984"
   },
   {
-    "country": "Jamaica",
+    "country": "ジャマイカ",
     "ISO": "JAM",
     "IOC": "JAM",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1948"
   },
   {
-    "country": "Jordan",
+    "country": "ヨルダン",
     "ISO": "JOR",
     "IOC": "JOR",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1980"
   },
   {
-    "country": "Japan",
+    "country": "日本",
     "ISO": "JPN",
     "IOC": "JPN",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1912"
   },
   {
-    "country": "Kazakhstan",
+    "country": "カザフスタン",
     "ISO": "KAZ",
     "IOC": "KAZ",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Kenya",
+    "country": "ケニア",
     "ISO": "KEN",
     "IOC": "KEN",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1956"
   },
   {
-    "country": "Kyrgyzstan",
+    "country": "キルギス",
     "ISO": "KGZ",
     "IOC": "KGZ",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1996"
   },
   {
-    "country": "Kiribati",
+    "country": "キリバス",
     "ISO": "KIR",
     "IOC": "KIR",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "2004"
   },
   {
-    "country": "South Korea",
+    "country": "韓国",
     "ISO": "KOR",
     "IOC": "KOR",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1948"
   },
   {
-    "country": "Kosovo",
+    "country": "コソボ",
     "ISO": "[13]",
     "IOC": "KOS",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "2016"
   },
   {
-    "country": "Saudi Arabia",
+    "country": "サウジアラビア",
     "ISO": "SAU",
     "IOC": "KSA",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1972"
   },
   {
-    "country": "Kuwait",
+    "country": "クウェート",
     "ISO": "KWT",
     "IOC": "KUW",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1968"
   },
   {
-    "country": "Laos",
+    "country": "ラオス",
     "ISO": "LAO",
     "IOC": "LAO",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1980"
   },
   {
-    "country": "Latvia",
+    "country": "ラトビア",
     "ISO": "LVA",
     "IOC": "LAT",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1924"
   },
   {
-    "country": "Libya",
+    "country": "リビア",
     "ISO": "LBY",
     "IOC": "LBA",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1968"
   },
   {
-    "country": "Lebanon",
+    "country": "レバノン",
     "ISO": "LBN",
     "IOC": "LBN",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1948"
   },
   {
-    "country": "Liberia",
+    "country": "リベリア",
     "ISO": "LBR",
     "IOC": "LBR",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1956"
   },
   {
-    "country": "Saint Lucia",
+    "country": "セントルシア",
     "ISO": "LCA",
     "IOC": "LCA",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1996"
   },
   {
-    "country": "Lesotho",
+    "country": "レソト",
     "ISO": "LSO",
     "IOC": "LES",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1972"
   },
   {
-    "country": "Liechtenstein",
+    "country": "リヒテンシュタイン",
     "ISO": "LIE",
     "IOC": "LIE",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1936"
   },
   {
-    "country": "Lithuania",
+    "country": "リトアニア",
     "ISO": "LTU",
     "IOC": "LTU",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1924"
   },
   {
-    "country": "Luxembourg",
+    "country": "ルクセンブルク",
     "ISO": "LUX",
     "IOC": "LUX",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1912"
   },
   {
-    "country": "Madagascar",
+    "country": "マダガスカル",
     "ISO": "MDG",
     "IOC": "MAD",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Malaya",
+    "country": "マラヤ",
     "ISO": "missing",
     "IOC": "MAL",
     "continent": "missing",
     "first_year": "1956"
   },
   {
-    "country": "Morocco",
+    "country": "モロッコ",
     "ISO": "MAR",
     "IOC": "MAR",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1960"
   },
   {
-    "country": "Malaysia",
+    "country": "マレーシア",
     "ISO": "MYS",
     "IOC": "MAS",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1964"
   },
   {
-    "country": "Malawi",
+    "country": "マラウイ",
     "ISO": "MWI",
     "IOC": "MAW",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1972"
   },
   {
-    "country": "Moldova",
+    "country": "モルドバ",
     "ISO": "MDA",
     "IOC": "MDA",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Maldives",
+    "country": "マルディブ",
     "ISO": "MDV",
     "IOC": "MDV",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1988"
   },
   {
-    "country": "Mexico",
+    "country": "メキシコ",
     "ISO": "MEX",
     "IOC": "MEX",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1900"
   },
   {
-    "country": "Mongolia",
+    "country": "モンゴル",
     "ISO": "MNG",
     "IOC": "MGL",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1964"
   },
   {
-    "country": "Marshall Islands",
+    "country": "マーシャル諸島",
     "ISO": "MHL",
     "IOC": "MHL",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "2008"
   },
   {
-    "country": "North Macedonia",
+    "country": "北マケドニア",
     "ISO": "MKD",
     "IOC": "MKD",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Mali",
+    "country": "マリ",
     "ISO": "MLI",
     "IOC": "MLI",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Malta",
+    "country": "マルタ",
     "ISO": "MLT",
     "IOC": "MLT",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1928"
   },
   {
-    "country": "Montenegro",
+    "country": "モンテネグロ",
     "ISO": "MNE",
     "IOC": "MNE",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "2008"
   },
   {
-    "country": "Monaco",
+    "country": "モナコ",
     "ISO": "MCO",
     "IOC": "MON",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1920"
   },
   {
-    "country": "Mozambique",
+    "country": "モザンビーク",
     "ISO": "MOZ",
     "IOC": "MOZ",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1980"
   },
   {
-    "country": "Mauritius",
+    "country": "モーリシャス",
     "ISO": "MUS",
     "IOC": "MRI",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1984"
   },
   {
-    "country": "Mauritania",
+    "country": "モーリタニア",
     "ISO": "MRT",
     "IOC": "MTN",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1984"
   },
   {
-    "country": "Myanmar",
+    "country": "ミャンマー",
     "ISO": "MMR",
     "IOC": "MYA",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1948"
   },
   {
-    "country": "Namibia",
+    "country": "ナミビア",
     "ISO": "NAM",
     "IOC": "NAM",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1992"
   },
   {
-    "country": "North Borneo",
+    "country": "北ボルネオ会社",
     "ISO": "missing",
     "IOC": "NBO",
     "continent": "missing",
     "first_year": "1956"
   },
   {
-    "country": "Nicaragua",
+    "country": "ニカラグア",
     "ISO": "NIC",
     "IOC": "NCA",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1968"
   },
   {
-    "country": "Netherlands",
+    "country": "オランダ",
     "ISO": "NLD",
     "IOC": "NED",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1900"
   },
   {
-    "country": "Nepal",
+    "country": "ネパール",
     "ISO": "NPL",
     "IOC": "NEP",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1964"
   },
   {
-    "country": "Nigeria",
+    "country": "ナイジェリア",
     "ISO": "NGA",
     "IOC": "NGR",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1952"
   },
   {
-    "country": "Niger",
+    "country": "ニジェール",
     "ISO": "NER",
     "IOC": "NIG",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Norway",
+    "country": "ノルウェー",
     "ISO": "NOR",
     "IOC": "NOR",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1900"
   },
   {
-    "country": "Nauru",
+    "country": "ナウル",
     "ISO": "NRU",
     "IOC": "NRU",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1996"
   },
   {
-    "country": "New Zealand",
+    "country": "ニュージーランド",
     "ISO": "NZL",
     "IOC": "NZL",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1920"
   },
   {
-    "country": "Oman",
+    "country": "オマーン",
     "ISO": "OMN",
     "IOC": "OMA",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1984"
   },
   {
-    "country": "Pakistan",
+    "country": "パキスタン",
     "ISO": "PAK",
     "IOC": "PAK",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1948"
   },
   {
-    "country": "Panama",
+    "country": "パナマ",
     "ISO": "PAN",
     "IOC": "PAN",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1928"
   },
   {
-    "country": "Paraguay",
+    "country": "パラグアイ",
     "ISO": "PRY",
     "IOC": "PAR",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1968"
   },
   {
-    "country": "Peru",
+    "country": "ペルー",
     "ISO": "PER",
     "IOC": "PER",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1936"
   },
   {
-    "country": "Philippines",
+    "country": "フィリピン",
     "ISO": "PHL",
     "IOC": "PHI",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1924"
   },
   {
-    "country": "Palestine",
+    "country": "パレスチナ",
     "ISO": "PSE",
     "IOC": "PLE",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1996"
   },
   {
-    "country": "Palau",
+    "country": "パラオ",
     "ISO": "PLW",
     "IOC": "PLW",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "2000"
   },
   {
-    "country": "Papua New Guinea",
+    "country": "パプアニューギニア",
     "ISO": "PNG",
     "IOC": "PNG",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1976"
   },
   {
-    "country": "Poland",
+    "country": "ポーランド",
     "ISO": "POL",
     "IOC": "POL",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1924"
   },
   {
-    "country": "Portugal",
+    "country": "ポルトガル",
     "ISO": "PRT",
     "IOC": "POR",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1912"
   },
   {
-    "country": "North Korea",
+    "country": "北朝鮮",
     "ISO": "PRK",
     "IOC": "PRK",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1972"
   },
   {
-    "country": "Puerto Rico",
+    "country": "プエルトリコ",
     "ISO": "PRI",
     "IOC": "PUR",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1948"
   },
   {
-    "country": "Qatar",
+    "country": "カタール",
     "ISO": "QAT",
     "IOC": "QAT",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1984"
   },
   {
-    "country": "Republic of China",
+    "country": "中華民国",
     "ISO": "missing",
     "IOC": "ROC",
     "continent": "missing",
     "first_year": "1932"
   },
   {
-    "country": "Romania",
+    "country": "ルーマニア",
     "ISO": "ROU",
     "IOC": "ROU",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1900"
   },
   {
-    "country": "South Africa",
+    "country": "南アフリカ",
     "ISO": "ZAF",
     "IOC": "RSA",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1904"
   },
   {
-    "country": "Russian Empire",
+    "country": "ロシア帝国",
     "ISO": "missing",
     "IOC": "RU1",
     "continent": "missing",
     "first_year": "1900"
   },
   {
-    "country": "Russia",
+    "country": "ロシア",
     "ISO": "RUS",
     "IOC": "RUS",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Rwanda",
+    "country": "ルワンダ",
     "ISO": "RWA",
     "IOC": "RWA",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1984"
   },
   {
-    "country": "Saar",
+    "country": "ザールラント州",
     "ISO": "missing",
     "IOC": "SAA",
     "continent": "missing",
     "first_year": "1952"
   },
   {
-    "country": "Samoa",
+    "country": "サモア",
     "ISO": "WSM",
     "IOC": "SAM",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1984"
   },
   {
-    "country": "Serbia and Montenegro",
+    "country": "セルビアモンテネグロ",
     "ISO": "missing",
     "IOC": "SCG",
     "continent": "missing",
     "first_year": "1996"
   },
   {
-    "country": "Senegal",
+    "country": "セネガル",
     "ISO": "SEN",
     "IOC": "SEN",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Seychelles",
+    "country": "セイシェル",
     "ISO": "SYC",
     "IOC": "SEY",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1980"
   },
   {
-    "country": "Singapore",
+    "country": "シンガポール",
     "ISO": "SGP",
     "IOC": "SGP",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1948"
   },
   {
-    "country": "Saint Kitts and Nevis",
+    "country": "セントクリストファーネイビス",
     "ISO": "KNA",
     "IOC": "SKN",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1996"
   },
   {
-    "country": "Sierra Leone",
+    "country": "シエラレオネ",
     "ISO": "SLE",
     "IOC": "SLE",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1968"
   },
   {
-    "country": "Slovenia",
+    "country": "スロベニア",
     "ISO": "SVN",
     "IOC": "SLO",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1992"
   },
   {
-    "country": "San Marino",
+    "country": "サンマリノ",
     "ISO": "SMR",
     "IOC": "SMR",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1960"
   },
   {
-    "country": "Solomon Islands",
+    "country": "ソロモン諸島",
     "ISO": "SLB",
     "IOC": "SOL",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1984"
   },
   {
-    "country": "Somalia",
+    "country": "ソマリア",
     "ISO": "SOM",
     "IOC": "SOM",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1972"
   },
   {
-    "country": "Serbia",
+    "country": "セルビア",
     "ISO": "SRB",
     "IOC": "SRB",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1912"
   },
   {
-    "country": "Sri Lanka",
+    "country": "スリランカ",
     "ISO": "LKA",
     "IOC": "SRI",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1948"
   },
   {
-    "country": "South Sudan",
+    "country": "南スーダン",
     "ISO": "SSD",
     "IOC": "SSD",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "2016"
   },
   {
-    "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "country": "サントメプリンシペ",
     "ISO": "STP",
     "IOC": "STP",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1996"
   },
   {
-    "country": "Sudan",
+    "country": "スーダン",
     "ISO": "SDN",
     "IOC": "SUD",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1960"
   },
   {
-    "country": "Switzerland",
+    "country": "スイス",
     "ISO": "CHE",
     "IOC": "SUI",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1896"
   },
   {
-    "country": "Suriname",
+    "country": "スリナム",
     "ISO": "SUR",
     "IOC": "SUR",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1968"
   },
   {
-    "country": "Slovakia",
+    "country": "スロバキア",
     "ISO": "SVK",
     "IOC": "SVK",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Sweden",
+    "country": "スウェーデン",
     "ISO": "SWE",
     "IOC": "SWE",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1896"
   },
   {
-    "country": "Swaziland",
+    "country": "スワジランド",
     "ISO": "SWZ",
     "IOC": "SWZ",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1972"
   },
   {
-    "country": "Syria",
+    "country": "シリア",
     "ISO": "SYR",
     "IOC": "SYR",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1948"
   },
   {
-    "country": "Tanzania",
+    "country": "タンザニア",
     "ISO": "TZA",
     "IOC": "TAN",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Czechoslovakia",
+    "country": "チェコスロバキア",
     "ISO": "missing",
     "IOC": "TCH",
     "continent": "missing",
     "first_year": "1920"
   },
   {
-    "country": "Tonga",
+    "country": "トンガ",
     "ISO": "TON",
     "IOC": "TGA",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1984"
   },
   {
-    "country": "Thailand",
+    "country": "タイ",
     "ISO": "THA",
     "IOC": "THA",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1952"
   },
   {
-    "country": "Tajikistan",
+    "country": "タジキスタン",
     "ISO": "TJK",
     "IOC": "TJK",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1996"
   },
   {
-    "country": "Turkmenistan",
+    "country": "トルクメニスタン",
     "ISO": "TKM",
     "IOC": "TKM",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1996"
   },
   {
-    "country": "East Timor",
+    "country": "東ティモール",
     "ISO": "TLS",
     "IOC": "TLS",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "2004"
   },
   {
-    "country": "Togo",
+    "country": "トーゴ",
     "ISO": "TGO",
     "IOC": "TOG",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1972"
   },
   {
-    "country": "Chinese Taipei",
+    "country": "チャイニーズタイペイ",
     "ISO": "TWN",
     "IOC": "TPE",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1984"
   },
   {
-    "country": "Trinidad and Tobago",
+    "country": "トリニダードトバゴ",
     "ISO": "TTO",
     "IOC": "TTO",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1948"
   },
   {
-    "country": "Tunisia",
+    "country": "チュニジア",
     "ISO": "TUN",
     "IOC": "TUN",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1960"
   },
   {
-    "country": "Turkey",
+    "country": "トルコ",
     "ISO": "TUR",
     "IOC": "TUR",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1908"
   },
   {
-    "country": "Tuvalu",
+    "country": "ツバル",
     "ISO": "TUV",
     "IOC": "TUV",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "2008"
   },
   {
-    "country": "United Arab Emirates",
+    "country": "アラブ首長国連邦",
     "ISO": "ARE",
     "IOC": "UAE",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1984"
   },
   {
-    "country": "Uganda",
+    "country": "ウガンダ",
     "ISO": "UGA",
     "IOC": "UGA",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1956"
   },
   {
-    "country": "Ukraine",
+    "country": "ウクライナ",
     "ISO": "UKR",
     "IOC": "UKR",
-    "continent": "Europe",
+    "continent": "ヨーロッパ",
     "first_year": "1996"
   },
   {
-    "country": "Soviet Union",
+    "country": "ソ連",
     "ISO": "missing",
     "IOC": "URS",
     "continent": "missing",
     "first_year": "1952"
   },
   {
-    "country": "Uruguay",
+    "country": "ウルグアイ",
     "ISO": "URY",
     "IOC": "URU",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1924"
   },
   {
-    "country": "United States",
+    "country": "アメリカ合衆国",
     "ISO": "USA",
     "IOC": "USA",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1896"
   },
   {
-    "country": "Uzbekistan",
+    "country": "ウズベキスタン",
     "ISO": "UZB",
     "IOC": "UZB",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1996"
   },
   {
-    "country": "Vanuatu",
+    "country": "バヌアツ",
     "ISO": "VUT",
     "IOC": "VAN",
-    "continent": "Oceania",
+    "continent": "オセアニア",
     "first_year": "1988"
   },
   {
-    "country": "Venezuela",
+    "country": "ベネズエラ",
     "ISO": "VEN",
     "IOC": "VEN",
-    "continent": "South America",
+    "continent": "南米",
     "first_year": "1948"
   },
   {
-    "country": "Vietnam",
+    "country": "ベトナム",
     "ISO": "VNM",
     "IOC": "VIE",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1952"
   },
   {
-    "country": "Saint Vincent and the Grenadines",
+    "country": "セントビンセントグレナディーン",
     "ISO": "VCT",
     "IOC": "VIN",
-    "continent": "North America",
+    "continent": "北米",
     "first_year": "1988"
   },
   {
-    "country": "North Yemen",
+    "country": "北イエメン",
     "ISO": "missing",
     "IOC": "YAR",
     "continent": "missing",
     "first_year": "1984"
   },
   {
-    "country": "Yemen",
+    "country": "イエメン",
     "ISO": "YEM",
     "IOC": "YEM",
-    "continent": "Asia",
+    "continent": "アジア",
     "first_year": "1992"
   },
   {
-    "country": "South Yemen",
+    "country": "南イエメン",
     "ISO": "missing",
     "IOC": "YMD",
     "continent": "missing",
     "first_year": "1988"
   },
   {
-    "country": "Yugoslavia",
+    "country": "ユーゴスラビア",
     "ISO": "missing",
     "IOC": "YUG",
     "continent": "missing",
     "first_year": "1920"
   },
   {
-    "country": "Zambia",
+    "country": "ザンビア",
     "ISO": "ZMB",
     "IOC": "ZAM",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1964"
   },
   {
-    "country": "Zimbabwe",
+    "country": "ジンバブエ",
     "ISO": "ZWE",
     "IOC": "ZIM",
-    "continent": "Africa",
+    "continent": "アフリカ",
     "first_year": "1928"
   }
 ]

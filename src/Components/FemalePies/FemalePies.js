@@ -12,9 +12,11 @@ import Pie from "./Pie";
 const GraphExplain = () => {
   return (
     <div className="graph-explain-container">
-      <p>Data source: <a href="https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Women-in-the-Olympic-Movement/Factsheet-Women-in-the-Olympic-Movement.pdf" target="_blank">IOC</a></p>
-      <p className="disclaimer">Female and male participation in the Summer Olympics; numbers are approximate.</p>
-      <p className="disclaimer">Why do you think the female athlete participation in the Olympics used to be so low? What has changed? What do you think will happen in the future?</p>
+      <p>元: <a href="https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Women-in-the-Olympic-Movement/Factsheet-Women-in-the-Olympic-Movement.pdf" target="_blank">IOC</a></p>
+      <p className="disclaimer">夏季オリンピックへの女性と男性選手の参加。 数値は概算です。</p>
+      <p className="disclaimer">
+        なぜオリンピックへの女性選手の参加がこれほど少なかったと思いますか？ 変化したことはなんだと思いますか？ 将来はどうなると思いますか？
+      </p>
     </div>
   )
 }
@@ -86,7 +88,7 @@ const FemalePies = () => {
       }) 
       legend.selectAll(".legend-label-female").data(['female']).join("text")
         .classed("legend-label-female", true)
-        .text(d => d)
+        .text(['女性'])
         .attr("transform", `translate(${width - margin.right}, ${margin.top})`)
         .attr("dy", "0.35em")
         .style("fill", colourFemale)
@@ -106,7 +108,7 @@ const FemalePies = () => {
       }) 
       legend.selectAll(".legend-label-male").data(['male']).join("text")
         .classed("legend-label-male", true)
-        .text(d => d)
+        .text(['男性'])
         .attr("transform", `translate(${width - margin.right - 85}, ${margin.top})`)
         .attr("dy", "0.35em")
         .style("fill", colourMale)
@@ -159,6 +161,7 @@ const FemalePies = () => {
         .attr("dy", "0.35em")
         .attr("text-anchor", "middle")
         .style("fill", colourFemale)
+        .attr("font-family", 'Indie Flower, cursive')
 
       // draw the pie chart
       const pieCharts = groups
@@ -202,7 +205,9 @@ const FemalePies = () => {
 
   return (
     <div className="page-container page-container-female-pies" id="gender">
-      <h2 className="graph-title graph-title-female-pies">What is the athlete gender split at the Olympics?</h2>
+      <h2 className="graph-title graph-title-female-pies">
+        オリンピック選手の男女の割合は何ですか？
+      </h2>
       <div className="mascot-female-pies"></div>
 
       <button className="icon home-icon">

@@ -12,8 +12,10 @@ import chroma from "chroma-js";
 const GraphExplain = () => {
   return (
     <div className="graph-explain-container">
-      <p>Data source: <a href="https://en.wikipedia.org/wiki/List_of_participating_nations_at_the_Summer_Olympic_Games" target="_blank">Wikipedia</a></p>
-      <p className="disclaimer">Use the source to research further. Why did certain countries enter the Olympics later than others? Which countries or regions participated as part of other entities previously; did they welcome the chance to compete in the Olympics independently?</p>
+      <p>元: <a href="https://en.wikipedia.org/wiki/List_of_participating_nations_at_the_Summer_Olympic_Games" target="_blank">ウィキペディア</a></p>
+      <p className="disclaimer">
+      なぜ特定の国が他の国よりも遅れてオリンピックに参加したのですか？ 以前に他の国の一部として参加した国または地域だありました。 その国が独立してオリンピックに出場する機会を歓迎したかだと思いますか？
+      </p>
     </div>
   )
 }
@@ -54,7 +56,7 @@ const FirstTimeParticipate = () => {
       // find the range of years 
       const years = dataLoad.map(d => +d.first_year).sort((a, b) => a - b)
 
-      // special case: countries on multiple continents - Asia and Europe 
+      // special case: countries on multiple continents - アジア and ヨーロッパ 
       const countriesMultipleContinents = ['Armenia','Azerbaijan','Cyprus','Georgia','Kazakhstan','Russia','Turkey']
 
       /// Scales ///
@@ -65,18 +67,18 @@ const FirstTimeParticipate = () => {
 
       // Colour scale for the continents 
       const continents = _.uniq(data.map(d => d.continent))
-      //["Asia", "missing", "Europe", "Africa", "North America", "South America", "Oceania"]
+      //["アジア", "missing", "ヨーロッパ", "アフリカ", "北米", "南米", "オセアニア"]
       const continentsColours = {
-        "Asia": "#ff006e",
-        "Europe": "#81568F",
-        "Africa": "#f8961e",
-        "North America": "#43aa8b",
-        "South America": chroma("#219ebc").saturate(0.5),
-        "Oceania": "#90be6d",
+        "アジア": "#ff006e",
+        "ヨーロッパ": "#81568F",
+        "アフリカ": "#f8961e",
+        "北米": "#43aa8b",
+        "南米": chroma("#219ebc").saturate(0.5),
+        "オセアニア": "#90be6d",
         "missing": chroma("#22223b").saturate(0.5)
       }
 
-      // Colour gradient for the counties which are in Europe and Asia 
+      // Colour gradient for the counties which are in ヨーロッパ and アジア 
       const defs = svg.selectAll("defs").data([0]).join("defs")
       const linearGradient = defs.append("linearGradient")
         .attr("id", "linear-gradient")
@@ -87,11 +89,11 @@ const FirstTimeParticipate = () => {
       //Set the color for the start (0%)
       linearGradient.append("stop") 
         .attr("offset", "0%")
-        .attr("stop-color", continentsColours['Asia']); 
+        .attr("stop-color", continentsColours['アジア']); 
       //Set the color for the end (100%)
       linearGradient.append("stop")
         .attr("offset", "100%")
-        .attr("stop-color", continentsColours['Europe']); 
+        .attr("stop-color", continentsColours['ヨーロッパ']); 
 
       // Set up the start //       
       const startingXPosition = 250 + margin.left;
@@ -209,13 +211,15 @@ const FirstTimeParticipate = () => {
       // Title on top of the legend 
       const legendTitle = legendG
         .selectAll(".legend-title")
-        .data(['each circle = country, coloured by continent; click to filter'])
+        .data(['各円＝国、大陸ごとに色分け。 クリック→フィルタリング'])
         .join("text")
         .classed("legend-text", true)
         .text(d => d)
-        .attr("transform", `translate(${width/2.5 - 25}, ${-28})`)
+        .attr("transform", `translate(${width/2.5 - 5}, ${-28})`)
         .attr("dy", "0.35em")
         .style("fill", "#219ebc")
+        .attr("font-family", 'Sawarabi Mincho, sans-serif')
+        .style("font-size", '12px')
       
       // Circles for the legend 
       const legendCircles = legendGroups 
@@ -234,7 +238,7 @@ const FirstTimeParticipate = () => {
       // X Axis 
       const legendXAxis = g => g
         .call(d3.axisBottom(legendScale).tickFormat(
-          i => i == "missing" ? "no longer exists / renamed / other" : i
+          i => i == "missing" ? "もう存在しない・名前が変更された・その他" : i
         ))
         .attr("transform", `translate(${0}, ${45})`)
         .call(g => g.select(".domain").remove())
@@ -242,7 +246,7 @@ const FirstTimeParticipate = () => {
           .attr("transform", `rotate(-30)`)
           .attr("text-anchor", "end")
           .style("fill", d => continentsColours[d])
-          .attr("font-family", 'Indie Flower, cursive')
+          .attr("font-family", 'Sawarabi Mincho, sans-serif')
           .style("font-size", "1.2em")
         )
         .call(g => g.selectAll(".tick")
@@ -304,7 +308,9 @@ const FirstTimeParticipate = () => {
 
   return (
     <div className="page-container page-container-first-time" id="first-time">
-      <h2 className="graph-title graph-title-first-time">When did countries first participate in the Olympics?</h2>
+      <h2 className="graph-title graph-title-first-time">
+        世界の国々が最初にオリンピックに参加したのはいつですか？
+      </h2>
       <div className="mascot-first-time"></div>
 
       <button className="icon home-icon">
@@ -324,6 +330,8 @@ const FirstTimeParticipate = () => {
         ? <GraphExplain />
         : null
       } 
+      <br/>
+      <br/>
 
       <div className="wrapper wrapper-first-time">
         <svg ref={svgRef} width={width} height={height}>
@@ -332,10 +340,10 @@ const FirstTimeParticipate = () => {
           <g ref={legendRef}></g>
           <g ref={legendAxisRef}></g>
         </svg>
-        <div className="play-button-first-time" ref={playButtonRef}>play</div>
+        <div className="play-button-first-time" ref={playButtonRef}>プレイ</div>
         <div className="tooltip-first-time" ref={tooltipRef}>Tooltip</div>
       </div>
-
+      <br/>
     </div>
   )
 };

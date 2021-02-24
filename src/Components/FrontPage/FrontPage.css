@@ -39,6 +39,7 @@
   margin: auto;
   color: #252422;
   font-size: 40px;
+  font-family: 'RocknRoll One', sans-serif;
 }
 
 .content-front-page {
@@ -68,12 +69,13 @@
 }
 
 .contents-label-front-page {
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 .contents-list-front-page p {
   font-weight: bold;
   line-height: 200%;
+  font-size: 14px;
   
 }
 
