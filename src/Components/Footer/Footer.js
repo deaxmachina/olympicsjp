@@ -6,7 +6,7 @@ const Footer = () => {
     <>
     <div className="footer">
       <p className="footer-text">
-        Made by Dea Bankova. Pigeon mascot character by Fujiwara Kanna. 
+        Dea Bankova & 藤原寛奈　 
       </p>
       <div className="footer-pigeon"></div>
     </div>  

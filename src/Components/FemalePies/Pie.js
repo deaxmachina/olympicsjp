@@ -129,7 +129,7 @@ const Pie = ({ show, setShow }) => {
           .attr("stroke", "#AB2E64")
           .attr("stroke-width", 5)
 
-      const revealButtonText = revealButton.selectAll(".button-text").data(["示す"]).join("text")
+      const revealButtonText = revealButton.selectAll(".button-text").data(["表示"]).join("text")
         .classed("button-text", true)
           .text(d => d)
           .attr("fill", "#AB2E64")

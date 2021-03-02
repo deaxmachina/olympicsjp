@@ -12,10 +12,10 @@ import Pie from "./Pie";
 const GraphExplain = () => {
   return (
     <div className="graph-explain-container">
-      <p>元: <a href="https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Women-in-the-Olympic-Movement/Factsheet-Women-in-the-Olympic-Movement.pdf" target="_blank">IOC</a></p>
-      <p className="disclaimer">夏季オリンピックへの女性と男性選手の参加。 数値は概算です。</p>
+      <p>出典: <a href="https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Women-in-the-Olympic-Movement/Factsheet-Women-in-the-Olympic-Movement.pdf" target="_blank">IOC</a></p>
+      <p className="disclaimer">これは、夏季オリンピックへ参加した選手の性別の内訳を示しています。 （数値は概算）</p>
       <p className="disclaimer">
-        なぜオリンピックへの女性選手の参加がこれほど少なかったと思いますか？ 変化したことはなんだと思いますか？ 将来はどうなると思いますか？
+        なぜオリンピックへの女性選手の参加が少なかったと思いますか？ なぜ変化したのでしょうか？将来はどうなると思いますか？
       </p>
     </div>
   )
@@ -206,7 +206,7 @@ const FemalePies = () => {
   return (
     <div className="page-container page-container-female-pies" id="gender">
       <h2 className="graph-title graph-title-female-pies">
-        オリンピック選手の男女の割合は何ですか？
+        オリンピック選手の男女の割合は？
       </h2>
       <div className="mascot-female-pies"></div>
 

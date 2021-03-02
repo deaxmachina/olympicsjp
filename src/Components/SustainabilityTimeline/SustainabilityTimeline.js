@@ -13,15 +13,16 @@ import { faBookOpen, faLaughBeam, faHome } from '@fortawesome/free-solid-svg-ico
 const GraphExplain = () => {
   return (
     <div className="graph-explain-container">
-      <p>元: <a href="https://www.researchgate.net/publication/340446440_ENVIRONMENTAL_SUSTAINABILITY_OF_OLYMPIC_GAMES_A_NARRATIVE_REVIEW_OF_EVENTS_INITIATIVES_IMPACT_AND_HIDDEN_ASPECTS" target="_blank">
+      <p>出典: <a href="https://www.researchgate.net/publication/340446440_ENVIRONMENTAL_SUSTAINABILITY_OF_OLYMPIC_GAMES_A_NARRATIVE_REVIEW_OF_EVENTS_INITIATIVES_IMPACT_AND_HIDDEN_ASPECTS" target="_blank">
         "Maria Konstantaki (2018) "Environmental Sustainability of Olympic Games: a Narrative Review of Events, Initiatives, Impact and Hidden Aspects"
         </a>
       </p>
       <p className="disclaimer"> 
-      オリンピックでの、またはオリンピックに関連する主要なポジティブおよびネガティブな環境に関連がある結果などのタイムライン。 Maria Konstantaki（2018）の論文に記載されているイベントに基づいています。
+        これは、オリンピックに関連して起こった環境への影響を示した年表です。      
       </p>
       <p className="disclaimer"> 
-      オリンピックの環境へのポジチブとネガチブの影響は何だと思いますか？ 東京2020のリサイクル活動について知っていますか？ たとえば、なぜメダルはリサイクルされた電子機器から作られたと思いますか？ 
+        オリンピックの環境へのポジティブな影響やネガティブの影響は何だと思いますか？ 東京オリンピックのリサイクル活動について知っていますか？ 
+        例として、なぜメダルがリサイクルされた電子機器から作られたか考えてみましょう。
       </p>
     </div>
   )
@@ -204,7 +205,7 @@ const SustainabilityTimeline = () => {
           })
         )
       }) 
-      legend.selectAll(".legend-label-positive").data(['ポジティブな結果']).join("text")
+      legend.selectAll(".legend-label-positive").data(['ポジティブな影響']).join("text")
         .classed("legend-label-positive", true)
         .text(d => d)
         .attr("transform", `translate(${width - margin.right - 300}, ${margin.top})`)
@@ -224,7 +225,7 @@ const SustainabilityTimeline = () => {
           })
         )
       })   
-      legend.selectAll(".legend-label-negative").data(['ネガティブな結果']).join("text")
+      legend.selectAll(".legend-label-negative").data(['ネガティブな影響']).join("text")
         .classed("legend-label-negative", true)
         .text(d => d)
         .attr("transform", `translate(${width - margin.right - 140}, ${margin.top})`)
@@ -244,7 +245,7 @@ const SustainabilityTimeline = () => {
     <div className="page-container page-container-sustainability-timeline" id="environment">
       <div className="mascot-sustainability-timeline"></div>
       <h2 className="graph-title graph-title-sustainability-timeline">
-      オリンピックは環境にどのような影響を与えますか？
+        オリンピックが環境にどんな影響を与えるだろう？
       </h2>
 
       <button className="icon home-icon">

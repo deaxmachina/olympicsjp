@@ -16,6 +16,7 @@ const App = () => {
       <Paralympics />
       <SustainabilityTimeline />
       <FemalePies />
+      <Footer />
     </>
   )
 };

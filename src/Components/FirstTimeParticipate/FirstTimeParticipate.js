@@ -12,9 +12,11 @@ import chroma from "chroma-js";
 const GraphExplain = () => {
   return (
     <div className="graph-explain-container">
-      <p>元: <a href="https://en.wikipedia.org/wiki/List_of_participating_nations_at_the_Summer_Olympic_Games" target="_blank">ウィキペディア</a></p>
+      <p>出典: <a href="https://en.wikipedia.org/wiki/List_of_participating_nations_at_the_Summer_Olympic_Games" target="_blank">ウィキペディア</a></p>
       <p className="disclaimer">
-      なぜ特定の国が他の国よりも遅れてオリンピックに参加したのですか？ 以前に他の国の一部として参加した国または地域だありました。 その国が独立してオリンピックに出場する機会を歓迎したかだと思いますか？
+        他国より遅れてオリンピックに参加した国にはどのような理由があるのでしょうか？
+        遅れて参加した国の多くは、過去に他国の一部としてオリンピックに参加した国や地域であったという歴史があります。
+        そのような国は、独立後、オリンピックに参加する時、歓迎されたのでしょうか？
       </p>
     </div>
   )
@@ -211,7 +213,7 @@ const FirstTimeParticipate = () => {
       // Title on top of the legend 
       const legendTitle = legendG
         .selectAll(".legend-title")
-        .data(['各円＝国、大陸ごとに色分け。 クリック→フィルタリング'])
+        .data(['○をクリックして、各大陸ごとにチェック！'])
         .join("text")
         .classed("legend-text", true)
         .text(d => d)
@@ -309,7 +311,7 @@ const FirstTimeParticipate = () => {
   return (
     <div className="page-container page-container-first-time" id="first-time">
       <h2 className="graph-title graph-title-first-time">
-        世界の国々が最初にオリンピックに参加したのはいつですか？
+        世界の国々が最初にオリンピックに参加したのはいつ？
       </h2>
       <div className="mascot-first-time"></div>
 
@@ -340,7 +342,7 @@ const FirstTimeParticipate = () => {
           <g ref={legendRef}></g>
           <g ref={legendAxisRef}></g>
         </svg>
-        <div className="play-button-first-time" ref={playButtonRef}>プレイ</div>
+        <div className="play-button-first-time" ref={playButtonRef}>スタート</div>
         <div className="tooltip-first-time" ref={tooltipRef}>Tooltip</div>
       </div>
       <br/>

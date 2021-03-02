@@ -18,13 +18,15 @@ import { annotationCalloutElbow, annotationCalloutCurve, annotation } from "d3-s
 const GraphExplain = () => {
   return (
     <div className="graph-explain-container">
-      <p>元: 
+      <p>出典: 
         <a href="https://en.wikipedia.org/wiki/Summer_Paralympic_Games" target="_blank"> ウィキペディア </a> 
         と 
         <a href="https://www.britannica.com/sports/Paralympic-Games" target="_blank"> ブリタニカ </a> 
       </p>
       <p className="disclaimer">
-        パラリンピックの始まりについて知って驚きましたか。 もしそうなら、前にどう思いましたか？ 時間の経過とともに選手の資格基準を調べてみてください。 トレンドはありますか？ 他のグループの選手を含めることができるとしたら、どんな選手にしたいと思いますか？
+        パラリンピックのルーツについて、どのように感じましたか？ルーツを知る以前は、パラリンピックに対してどのように思っていましたか？
+        時間の経過とともに、選手の資格基準を調べてみましょう。トレンドはありますか？ 
+        他の競技の選手を含めることができるとしたら、どんな選手にしたいと思いますか？
       </p>
     </div>
   )
@@ -195,13 +197,13 @@ const Paralympics = () => {
     const type = annotationCalloutCurve
     const annotations = [{
         note: {
-          label: `パラリンピックが
+          label: `パラリンピックは、
           ルートヴィヒ・グットマン卿が
-          1948年にイギリスで脊髄損傷を
-          負った第二次世界大戦の退役軍人
+          1948年にイギリスで脊髄損傷
+          を負った第二次世界大戦の退役軍人
           を対象にスポーツ大会を開催した
           後に開発された。`,
-          title: "始原: 1948"
+          title: "ルーツ: 1948"
         },
         dy: -120,
         dx: 50,
@@ -319,7 +321,7 @@ const Paralympics = () => {
   return (
     <div className="page-container page-container-paralympics" id="paralympics">
       <h2 className="graph-title graph-title-paralympics">
-        パラリンピックの歴史とタイムラインはなんですか
+        パラリンピックの歴史や年表は？
       </h2>
       <div className="mascot-paralympics"></div>
 

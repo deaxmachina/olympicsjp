@@ -18,10 +18,10 @@ const FrontPage = () => {
         </div>
         <div className="contents-list-front-page">
           <h2 className="contents-label-front-page">内容</h2>
-          <a href="#first-time"><p>世界の国々が最初にオリンピックに参加したのはいつですか</p></a>
-          <a href="#paralympics"><p>パラリンピックの歴史とタイムラインはなんですか</p></a>
-          <a href="#environment"><p>オリンピックは環境にどのような影響を与えますか</p></a>   
-          <a href="#gender"><p>オリンピック選手の男女の割合は何ですか</p></a>       
+          <a href="#first-time"><p>世界の国々が最初にオリンピックに参加したのはいつ?</p></a>
+          <a href="#paralympics"><p>パラリンピックの歴史や年表は?</p></a>
+          <a href="#environment"><p>オリンピックが環境にどんな影響を与えるだろう?</p></a>   
+          <a href="#gender"><p>オリンピック選手の男女の割合は?</p></a>       
         </div>
       </div>
 
